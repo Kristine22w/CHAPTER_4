@@ -5,5 +5,5 @@ By following the guide in this chapter, I was able to create a starter project i
 
 I also learned how to create two Dart files: main.dart and home.dart. The main.dart file is where I defined the main() function, which is the entry point of the app. In the home.dart file, I wrote the code for the Home widget, which is where the main user interface for the app is built. Separating the files like this made the code more modular and easier to maintain, and it gave me a better understanding of how to structure a Flutter project efficiently. 
 
+![home dart-main dart](https://github.com/user-attachments/assets/89cd6101-9ffe-481c-85ea-a4b1ccf39951)
 
-![main dart](https://github.com/user-attachments/assets/b2f756a0-1b04-406e-b780-2329c8a6a1ad)
